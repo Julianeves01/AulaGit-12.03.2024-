@@ -22,3 +22,4 @@ console.log ("Ignorar alteração7!");
 console.log ("ignorar alteração8!");
 console.log ("ignorar alteração9!");
 console.log ("ignorar alteração10!");
+console.log ("ignorar alteração11!");
