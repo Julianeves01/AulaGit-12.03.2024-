@@ -15,3 +15,4 @@ if (tabuada <= 0) {
 console.log ("Ignorar alteração!");
 console.log ("Ignorar alteração2!");
 console.log ("Ignorar alteração3!");
+console.log ("Ignorar alteração4!");
