@@ -11,3 +11,5 @@ if (tabuada <= 0) {
         console.log(tabuada + "x" + i + "=" + resultado);
     }
 }
+
+console.log ("Ignorar alteração!")
