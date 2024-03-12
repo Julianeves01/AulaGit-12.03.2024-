@@ -13,3 +13,4 @@ if (tabuada <= 0) {
 }
 
 console.log ("Ignorar alteração!")
+console.log ("Ignorar alteração2!")
