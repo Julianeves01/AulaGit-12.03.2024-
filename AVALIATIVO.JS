@@ -18,3 +18,4 @@ console.log ("Ignorar alteração3!");
 console.log ("Ignorar alteração4!");
 console.log ("Ignorar alteração5!");
 console.log ("Ignorar alteração6!");
+console.log ("Ignorar alteração7!");
